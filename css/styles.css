@@ -1,0 +1,39 @@
+div.about{
+  border-style: ridge;
+  margin: 0px;
+  padding: 0px;
+  background-color: salmon;
+  background-clip: content-box;
+  width: 50%;
+}
+
+body{
+  background-image: url("https://www.thanksbutnothanksrecords.com/wp-content/uploads/2015/11/horizontal-wood-background-recette-rustic-wooden-background-1.jpg");
+}
+
+span.tech{
+  font-weight: bold;
+}
+
+p {
+  margin: 0px;
+  padding: 0px;
+}
+
+h1.header {
+  font-size: 60px;
+  font-style: italic;
+}
+
+h2 {
+  border-style: ridge;
+  bacground-color: #F9F9F9;
+  width: 7%;
+}
+
+img{
+  display: block;
+  margin-left; auto;
+  margin-right; auto;
+  width: 40%;
+}
